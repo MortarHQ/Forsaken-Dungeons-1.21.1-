@@ -1,10 +1,14 @@
 {
   "name": "Forsaken Dungeons [1.21.1]",
-  "author": "invalidate",
-  "version": "1.0",
+  "author": "landminehq",
+  "version": "1.0.1",
   "description": "",
   "fileApi": "https://takehost.landmine.online/mc/forsaken-dungeons-beta",
   "files": [
+    {
+      "path": "config/betteradvancements-client.toml",
+      "hash": "f3f092a0b21260802d10cc6abd83e2a6d33573c3"
+    },
     {
       "path": "config/bettergrass.json5",
       "hash": "bab7c7ca918d006762e41a011c56ce40b2e2c937"
@@ -27,7 +31,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "31497f9562a2f1f5e8dbe0bf366ccb5c67f68009"
+      "hash": "9e155f65a315311491d69034983da1cb224c1c17"
     },
     {
       "path": "config/ferritecore-mixin.toml",
@@ -95,7 +99,7 @@
     },
     {
       "path": "config/notenoughanimations.json",
-      "hash": "1422e8c71c79394881fd4237ad83aaffba902476"
+      "hash": "ea4648f60613f7140fc3d47f238c7fb3ff5b95ae"
     },
     {
       "path": "config/sodium-fingerprint.json",
@@ -239,7 +243,7 @@
     },
     {
       "path": "servers.dat",
-      "hash": "49e60b42a3c2168e0312e2ceff9684394cd27c32"
+      "hash": "cf3fbbf7c74717b33c6d5e0a159dd1f18aac640f"
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
